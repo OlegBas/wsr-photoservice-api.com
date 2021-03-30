@@ -21,3 +21,4 @@
 * [Часть 3](https://www.youtube.com/watch?v=VTuaMficMLg)
 
 _Примечание: Код Yii2 Basic, не влияющий на работоспособность API, оставлен в исходном виде._
+"# wsr-photoservice-api.com" 
