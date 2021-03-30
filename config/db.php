@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=photoservice',
+    'dsn' => 'mysql:host=localhost;dbname=wsr-photoservice-api',
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
